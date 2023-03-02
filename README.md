@@ -6,5 +6,6 @@
 
 **back-end**
 >Node, Express e SQLite.
+
 **front-end** 
 >React e Bootstrap.
